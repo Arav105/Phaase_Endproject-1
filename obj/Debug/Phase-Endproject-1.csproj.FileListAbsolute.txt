@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\PhaseEndproject-1\Phase-Endproject-1\bin\Debug\Phase-Endproject-1.exe.config
+C:\Users\Admin\source\repos\PhaseEndproject-1\Phase-Endproject-1\bin\Debug\Phase-Endproject-1.exe
+C:\Users\Admin\source\repos\PhaseEndproject-1\Phase-Endproject-1\bin\Debug\Phase-Endproject-1.pdb
+C:\Users\Admin\source\repos\PhaseEndproject-1\Phase-Endproject-1\obj\Debug\Phase-Endproject-1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PhaseEndproject-1\Phase-Endproject-1\obj\Debug\Phase-Endproject-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\PhaseEndproject-1\Phase-Endproject-1\obj\Debug\Phase-Endproject-1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PhaseEndproject-1\Phase-Endproject-1\obj\Debug\Phase-Endproject-1.exe
+C:\Users\Admin\source\repos\PhaseEndproject-1\Phase-Endproject-1\obj\Debug\Phase-Endproject-1.pdb
